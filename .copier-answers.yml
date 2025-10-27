@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.4.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: info@ictsoeasy.co.uk
+author_name: Oli Howson
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jlab_asm_editor
+project_short_description: A plugin to add an assembly editor to the launcher in tljh
+python_name: jlab_asm_editor
+repository: https://github.com/ICTSoEasy/jlab_asm_editor
+test: false
+
